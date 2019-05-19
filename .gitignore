@@ -1,0 +1,6 @@
+annotations
+venv
+images/*
+.idea
+dataset.zip
+label_map.pbtxt
